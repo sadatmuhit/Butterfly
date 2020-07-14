@@ -17,12 +17,12 @@ body{
     transition-delay: 0.3s;
     transition-duration: 2s;
 }
-.wrapper img{
+img{
     border-radius: 50%;
     margin: 10px auto 15px;
     display: block;
 }
-.wrapper h1{
+h1{
     text-transform: uppercase;
     text-shadow: 6px 4px 4px #10505d;
     font-size: 40px;
